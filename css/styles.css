@@ -281,12 +281,13 @@ img {
   margin-left: 10px;
 }
 .social-link {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 44px;
   height: 44px;
   border-radius: 50%;
   fill: var(--icon-color);
-  padding: 12px;
 }
 .social-icon {
   width: 20px;
