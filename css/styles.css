@@ -297,7 +297,6 @@ img {
   height: 44px;
   border-radius: 50%;
   color: var(--icon-color);
-  /* fill: var(--icon-color); */
 }
 .social-icon {
   width: 20px;
@@ -335,7 +334,6 @@ img {
 .client-link:focus {
   color: var(--accent-color);
   border-color: var(--accent-color);
-  fill: var(--accent-color);
 }
 
 .client-icon {
@@ -389,11 +387,9 @@ img {
 
 .social-title {
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.14em;
   text-transform: uppercase;
   color: var(--white-color);
-  margin-top: 12px;
 }
 
 .social-list {
